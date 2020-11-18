@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">project_group_13</string>
+    <string name="title_activity_menuleft">menuleft</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_menu_right">MenuRight</string>
+    <string name="title_activity_menu_right_ne">MenuRightNe</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="security">Security</string>
+    <string name="payment">Payment Info</string>
+    <string name="backmain">Go Back To Main Menu</string>
+    <string name="greenlight"><b>GreenLight Services and Promotions</b> \nStay in the know about all things GreenLight.
+    \nGet the latest product updates, upcoming
+    events, and GreenLight promos.</string>
+    <string name="partner"><b>Partner Offers</b> \nBe the first to receive exclusive student
+discounts, coupons, and promos from our
+friends and partners.</string>
+    <string name="unsubscribe"><b>Unsubscribe from all emails</b> \nBy clicking this operation, I understand
+that I will continue to receive transactional
+emails such as order and shipment
+confirmation emails as outlined in
+GreenLight\'s privacy policy. We already
+miss you!</string>
+</resources>
